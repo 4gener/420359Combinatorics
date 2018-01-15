@@ -1,2 +1,2 @@
-# 42035902Combinatrics
-coding assignments for course 42035902 Combinatrics @ SSE, Tongji Univ
+# 42035902Combinatorics
+coding assignments for course 42035902 Combinatorics @ SSE, Tongji Univ
